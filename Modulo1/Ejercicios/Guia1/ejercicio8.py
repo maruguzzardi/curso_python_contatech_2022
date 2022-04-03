@@ -1,0 +1,5 @@
+dividend = input("Introduce el dividendo (entero): ")
+divider = input("Introduce el divisor (entero): ")
+quotient = int(dividend) // int(divider)
+rest = int(dividend) % int(divider)
+print(f'{dividend} entre {divider} da un cociente {quotient} y un resto {rest}')
