@@ -5,7 +5,6 @@ ages = [15, 26, 30, 33, 20]
 names = ('Bruno', 'Maria', 'Fernando', 'Juliana', 'Pedro')
 
 ages[3] = 34
-
 # names[3] = 'Mariana' NO PERMITIDO
 
 index = 0
